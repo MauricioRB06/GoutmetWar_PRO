@@ -20,7 +20,7 @@ C:\Projects\Portfolio\UE5\GoutmetWar_PRO\Plugins\Developer\RiderLink\Source\RD\t
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ThirdParty\mimalloc\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
